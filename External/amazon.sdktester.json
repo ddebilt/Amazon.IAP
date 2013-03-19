@@ -1,0 +1,38 @@
+{
+  "com.amazon.buttonclicker.blue_button" : {
+    "itemType": "ENTITLED",
+    "price": 0.99,
+	"title": "Blue Button",
+	"description": "Button Clicker - Now in Blue!",
+    "smallIconUrl": "http://some/image.jpg"
+  },
+  "com.amazon.buttonclicker.green_button" : {
+    "itemType": "ENTITLED",
+    "price": 0.99,
+	"title": "Green Button",
+	"description": "Button Clicker - Now in Green!",
+    "smallIconUrl": "http://some/image.jpg"
+  },
+  "com.amazon.buttonclicker.purple_button" : {
+    "itemType": "ENTITLED",
+    "price": 0.99,
+	"title": "Purple Button",
+	"description": "Button Clicker - Now in Purple!",
+    "smallIconUrl": "http://some/image.jpg"
+  },
+  "com.amazon.buttonclicker.subscription.1mo" : {
+    "itemType" : "SUBSCRIPTION",
+    "price" : 3.99,
+    "title": "Button Clicker",
+    "description": "Get daily clicks of your button!",
+    "smallIconUrl": "http://some/image.jpg",
+    "subscriptionParent": "com.amazon.buttonclicker.subscription"
+  },
+  "com.amazon.buttonclicker.ten_clicks" : {
+    "itemType": "CONSUMABLE",
+    "price": 0.99,
+    "title": "More Clicks!",
+    "description": "Click your button ten more times!",
+    "smallIconUrl": "http://some/image.jpg"
+  }
+}
